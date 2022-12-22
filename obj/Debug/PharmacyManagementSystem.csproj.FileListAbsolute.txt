@@ -1,0 +1,78 @@
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Guna.UI2.dll
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Adminstrator.resources
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_Dashbord.resources
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_AddUser.resources
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\ZstdNet.dll
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\MySql.Data.xml
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joysa\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\PharmacyManagementSystem.exe.config
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\PharmacyManagementSystem.exe
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\PharmacyManagementSystem.pdb
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\BouncyCastle.Crypto.dll
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\Google.Protobuf.dll
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\Guna.UI2.dll
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\K4os.Compression.LZ4.dll
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\K4os.Hash.xxHash.dll
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\System.Buffers.dll
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\System.Memory.dll
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\System.Numerics.Vectors.dll
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\ZstdNet.dll
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\MySql.Data.xml
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_AddUser.resources
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_Dashbord.resources
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.Adminstrator.resources
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.Form1.resources
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.exe
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.pdb
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_ViewUser.resources
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_Profile.resources
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.Pharmacist.resources
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_Dashbord.resources
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_AddMedicine.resources
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_ViewMedicines.resources
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_UpdateMedicine.resources
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_MedicineValidityCheck.resources
+F:\All CSE File\3rd year 1st semester\c sharp\new c sharp\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_SellMedicine.resources
